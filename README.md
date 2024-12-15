@@ -1,6 +1,11 @@
 # Employee Management System
 
-<img src="https://dl.dropbox.com/scl/fi/6a8kifb0d1urh4qsmq33i/employee-management-system-abdelhalim.png?rlkey=w6rxti674hoqrilu2jwjifux1&st=z9ztngrp&dl=0" alt="app demo image" />
+![Screenshot 2024-12-15 171648](https://github.com/user-attachments/assets/b93233de-996b-4826-9036-7acfd64a48b4)
+![Screenshot 2024-12-15 171718](https://github.com/user-attachments/assets/bbf65f03-b4ef-432b-96f0-f1040a306316)
+![Screenshot 2024-12-15 171741](https://github.com/user-attachments/assets/64ec9b6a-a55f-4657-a7d2-bf800817f482)
+![Screenshot 2024-12-15 171800](https://github.com/user-attachments/assets/737ad427-e449-488b-90d7-6bc5d9dc1b6f)
+![Screenshot 2024-12-15 171822](https://github.com/user-attachments/assets/1d8ab5f9-2c53-47d1-b228-fea4276fd499)
+![Screenshot 2024-12-15 171852](https://github.com/user-attachments/assets/f11e371f-74af-4d3b-97b3-ad6ccfc41dc3)
 
 ## Project Overview
 
