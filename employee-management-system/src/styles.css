@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f0f0f0;
+  }
+  
+  h1, h2, h3 {
+	color: #333;
+	
+  }
+  
+  a {
+	color: powderblue;
+	text-decoration: none;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+  }
+  body {
+	background-image: url('assets/logo.jpg');
+	background-size: contain; 
+	background-repeat: no-repeat;
+	background-position:center center ;
+	background-color: #f8f9fa; 
+	 } 
+  
+   /* updated css */
+
+   
