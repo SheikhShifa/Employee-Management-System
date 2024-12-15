@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Management System [EMS]
 
 ![Screenshot 2024-12-15 171648](https://github.com/user-attachments/assets/b93233de-996b-4826-9036-7acfd64a48b4)
 ![Screenshot 2024-12-15 171718](https://github.com/user-attachments/assets/bbf65f03-b4ef-432b-96f0-f1040a306316)
@@ -9,7 +9,13 @@
 
 ## Project Overview
 
-This Employee Management System is a full-stack application built with a .NET 8 API backend and an Angular frontend. It provides CRUD (Create, Read, Update, Delete) operations for managing employee data.
+The Employee Management System is a web-based application designed to streamline employee management tasks. It is a full-stack application built with a .NET API backend and an Angular frontend. It provides CRUD (Create, Read, Update, Delete) operations for managing employee data. It provides a user-friendly interface to perform essential operations such as:
+- Adding new employee details
+- Viewing employee information
+- Editing existing records
+- Deleting employees
+The system ensures efficient data handling and improves organizational workflow.
+
 
 ## Table of Contents
 
@@ -31,7 +37,7 @@ This Employee Management System is a full-stack application built with a .NET 8 
 
 The project is divided into two main parts:
 
-### Backend (.NET 8 API)
+### Backend (.NET API)
 
 ```sh
 EmployeeManagementAPI/
@@ -85,10 +91,13 @@ employee-management-system/
   - .NET 8
   - Entity Framework Core
   - SQLite Database
+    ![image](https://github.com/user-attachments/assets/9e93064c-6050-4456-bb8a-2fafcf35b04f)
+
 - Frontend:
   - Angular 15+
-  - TypeScript
-  - RxJS
+    ![image](https://github.com/user-attachments/assets/527b2bb5-843a-4fe8-972d-4707600264b9)
+
+  
 
 ## Design Decisions
 
@@ -111,16 +120,28 @@ employee-management-system/
 3. **Cross-Origin Resource Sharing (CORS)**: Ensuring proper CORS configuration on the backend to allow requests from the Angular frontend.
 
 ## Setup and Installation
+A. This a project folder for Angular :-
+![Screenshot 2024-12-15 171406](https://github.com/user-attachments/assets/29d00edd-3a96-451d-ad36-c35c8356f3c0)
+B. This a project folder for .Net Visual Code Community 2022 :-
+![Screenshot 2024-12-15 225944](https://github.com/user-attachments/assets/9b5e0192-baf7-4c4d-bf81-9547926f0b68)
 
-1. Clone the repository
-2. Backend Setup:
-   - Navigate to the EmployeeManagementAPI directory
+1. Clone the repository where you want to place the folder and open cmd or gitbash type command git clone <repository_url>
+   project folder will be cloned.
+3. Backend Setup:
+   - Open Command Prompt and navigate to the EmployeeManagementAPI directory simply run command 
    - Run `dotnet restore`
    - Run `dotnet run`
-3. Frontend Setup:
-   - Navigate to the employee-management-system directory
+Your Project will run successfully and command prompt will look like this
+![Screenshot 2024-12-15 171502](https://github.com/user-attachments/assets/ea0b2c63-d417-4d8c-b2d3-51d71f7fa19c)
+Note :- You can also run project throung visual studio code 2022
+        a. Open Project Folder EmployeeManagementAPI in VS Code 2022 and run the ctrl+F5 or hit the green button simply.
+
+4. Frontend Setup:
+   - Open Visual Studio Code and open folder employee-management-system directory
    - Run `npm install`
    - Run `ng serve`
+![Screenshot 2024-12-15 230323](https://github.com/user-attachments/assets/ca0a0cbf-792b-42e3-9dd9-5be5c771fc46)
+
 
 ## Usage
 
